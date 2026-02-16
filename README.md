@@ -22,4 +22,4 @@ Are you ready to become the king of the grid? Grid King is a brand new daily mat
 </p>
 
 <h2>No registration required!</h2>
-![App Screenshot](solve_equations.png.png)
+![App Screenshot](solve_equations.png)
