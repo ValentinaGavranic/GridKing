@@ -21,5 +21,14 @@ Are you ready to become the king of the grid? Grid King is a brand new daily mat
    Available on <a href="https://play.google.com/store/apps/details?id=com.myown.puzzlegame&hl=en">Google Play</a>. 
 </p>
 
-<h2>No registration required!</h2>
-![App Screenshot](solve_equations.png)
+<h2 style="color: red;">No registration required!</h2>
+<div align="center">
+  <img src="solve_equations.png" width="180">
+  <img src="swipe.png" width="180">
+  <img src="hint.png" width="180">
+  <img src="add.png" width="180">
+  <img src="win.png" width="180">
+</div>
+
+
+
