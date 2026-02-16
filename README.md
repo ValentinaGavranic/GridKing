@@ -1,4 +1,4 @@
-<h2>Privacy Policy</h2>
+<h2><a href="https://valentinagavranic.github.io/GridKing/">Privacy Policy</h2>
 <p>
   This document outlines the privacy policy for the <strong>GridKing</strong> Android application.
 </p>
